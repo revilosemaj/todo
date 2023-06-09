@@ -4,7 +4,22 @@
   justify-content: space-between;
   align-items: center;
   padding: 6rem;
-  min-height: 100vh;
+}
+
+.addItemContainer {
+  padding: 20px 0;
+}
+
+.listItemContainer {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 0;
+}
+
+.buttonContainer {
+  display: flex;
+  justify-content: space-between;
+  width: 120px;
 }
 
 .description {
